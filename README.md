@@ -12,4 +12,8 @@ architecture ( RxSwift and MVVM )
 layout ( SnapKit )
 Network (Moya, ObjectMapper)
 
+### Run
+
+cd /GitUrerApp
+pod install
 
